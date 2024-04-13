@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @8milares
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently know python and html and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8milares@gmail.com
 
